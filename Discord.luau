@@ -9,7 +9,7 @@ local guiName = "DiscordV1"
 local old = playerGui:FindFirstChild(guiName)
 if old then old:Destroy() end
 
-local DISCORD_INVITE_CODE = "K9F7cbYaAM"
+local DISCORD_INVITE_CODE = "SyBSpfCpUf"
 local LOGO_ASSET_ID = "rbxassetid://98132073663470"
 
 local isMobile = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
